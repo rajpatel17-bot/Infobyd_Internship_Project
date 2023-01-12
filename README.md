@@ -1,7 +1,4 @@
-# programming-quiz-app
-
-See running application here : https://rajpatel17-bot.github.io/programming-quiz-app/dist/
-
+# programming-quiz-app - Infobyd Software Solution
 
 # Introduction of the project 
 - This is programming quiz app. Here you can test your knowledge in HTML5, CSS3 and JavaScript.
@@ -39,3 +36,7 @@ See running application here : https://rajpatel17-bot.github.io/programming-quiz
 
 # Credit : Raj Patel
 Github Profile : https://github.com/rajpatel17-bot
+
+## Internship Certificate
+![Annotation 2022-07-18 205604](https://user-images.githubusercontent.com/83405614/212105357-1478e06c-b92d-46cb-bd66-29adce037c3b.jpg)
+
